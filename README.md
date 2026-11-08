@@ -1,0 +1,2 @@
+# cnam
+CNAM assignments archive
